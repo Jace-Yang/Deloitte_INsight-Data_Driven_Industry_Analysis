@@ -14,7 +14,9 @@ Hi there! My name is Jace Yang. I am one of the core contributor of Deloitte INs
 <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
 
 
-<a href="https://my.github.io/my.pdf" target="_blank">please click here.</a> <embed src="https://my.github.io/my.pdf" width="1000px" height="800px" />
+<a href="https://my.github.io/my.pdf" target="_blank">please click here.</a> 
+
+<embed src="https://my.github.io/my.pdf" width="1000px" height="800px" />
 
  <embed src="https://winterishere.github.io/resume.pdf" width="100%" height="850px"/>
 
