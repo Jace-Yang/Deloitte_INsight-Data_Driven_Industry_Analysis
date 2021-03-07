@@ -11,4 +11,4 @@ Hi there! My name is Jace Yang. I am one of the core contributor of Deloitte INs
 
 ### Data Pipeline
 
-<embed src="./Web-side/Screenshot of system.pdf" type="application/pdf" />
+<embed src="https://github.com/Jace-Yang/Deloitte_INsight-Data_Driven_Industry_Analysis/raw/master/Web-side%20System/Screenshot%20of%20system.pdf" type="application/pdf" />
