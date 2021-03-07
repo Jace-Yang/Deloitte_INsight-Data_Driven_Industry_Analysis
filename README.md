@@ -11,17 +11,4 @@ Hi there! My name is Jace Yang. I am one of the core contributor of Deloitte INs
 
 ### Data Pipeline
 
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
-
-
-<a href="https://my.github.io/my.pdf" target="_blank">please click here.</a> 
-
-<embed src="https://my.github.io/my.pdf" width="1000px" height="800px" />
-
- <embed src="https://winterishere.github.io/resume.pdf" width="100%" height="850px"/>
-
-[embed]https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf[/embed]
-
-
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
+<a href="jace-Yang.github.io/Deloitte_INsight-Data_Driven_Industry_Analysis/Web-side System/Screenshot of system.pdf" target="_blank">PDF.</a>
