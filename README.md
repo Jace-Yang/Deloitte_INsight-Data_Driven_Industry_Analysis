@@ -1,6 +1,6 @@
 # Deloitte INsight: A Data-driven Industry Analysis Platform
 
-<img src="./Web-side System/logo.png" align="Right"
+<img src="./images/Web-side System/logo.png" align="Right"
      alt="Size Limit logo by Anton Lovchikov" width="227.2" height="88">
 
 Hi there! My name is Jace Yang. 
