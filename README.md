@@ -8,7 +8,7 @@ I am one of the core contributor of the Deloitte INsight, an upcoming financial 
 > This repository is to show my work by mainly pictures and explanations. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial. Please email me at yjh.jace@gamil.com if you are interested and want more information.
 
 
-## My work
+# My work
 
 Interning for 8 months since the very beginning of the product's R&D period, I have been trusted to take charge of the data division throughout the whole beta stage of this product.
 
@@ -22,7 +22,7 @@ My major contributions here:
 
 > Please bear with me that the language used in most files/charts is Chinese. ^ ^
 
-# Data Pipeline
+## Data Pipeline
 
 I wrote a SQL-style data processing rundown in R via 100+ tailored function based on dplyr and over 10k+ lines of code. It then helped the team to streamline the workflow and improve the efficiency remarkably.
 
@@ -30,14 +30,14 @@ I wrote a SQL-style data processing rundown in R via 100+ tailored function base
 - The whole dataflow:
     > ![](./images/Data-Pipeline/Data_Structure.svg)
     
-    - Data cleaning details for 1 datatable (as an example)
+    - Data cleaning details for 1 datatable as an example, which located **170,000** subsidiary companies' address and industry positioning.
         > ![](./images/Data-Pipeline/Data_Pipeline_Holding_Company.svg)
 
 - The collaboration workflow
     > ![](./images/Data-Pipeline/Teamwork_Structure.svg)
 
 
-# Business-Industry Mapping NLP Algorithm
+## Business-Industry Mapping NLP Algorithm
 
 As our team develop a 4-level market segmentation system. My algorithm is to map the company into several niche markets among 1145 different sub-industries.
 
@@ -47,7 +47,7 @@ The way I built the model:
 ![](./images/Business-industry-Mapping/NLP_design.svg)
 
 
-# Data Dashboard
+## Data Dashboard
 
 I research many existing industry analysis framework, and R&D solutions to empower them by bring our unique data on industry segementation.
 
