@@ -1,7 +1,6 @@
 # Deloitte INsight: A Data-driven Industry Analysis Platform
 
-<img src="./images/Web-side System/logo.png" align="Right"
-     alt="Size Limit logo by Anton Lovchikov" width="209.024" height="80.96">
+<img src="./images/Web-side System/logo.png" align="Right" alt="Size Limit logo by Anton Lovchikov" width="209.024" height="80.96">
 
 Hi there! My name is Jace Yang. 
 I am one of the core contributor of the Deloitte INsight, an upcoming financial data product that aims to accelerate data-driven industry analysis, especially analysis deep down the subdivision markets.
