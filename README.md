@@ -5,10 +5,17 @@
 Hi there! My name is Jace Yang. 
 I am one of the core contributor of the Deloitte INsight, an upcoming financial data product that aims to accelerate data-driven industry analysis, especially analysis deep down the subdivision markets.
 
-> This repository is to show my work by mainly pictures and explanations. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial. Please email me at yjh.jace@gamil.com if you are interested and want more information.
+> This repository is to show my work but mainly through pictures and words. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial. Please email me at yjh.jace@gamil.com if you are interested and want more information.
+
+# Project Website 项目信息
+
+We just launched our product in April!
+
+- [Website of the product](https://ibond.deloitte.com.cn:8080/webIndex/index.html?serviceType=2)
+- [News issued from Deloitte wechat platform](https://mp.weixin.qq.com/s/mCoT9UidyZFpSub-9EEuxg)
 
 
-# My work
+# My work 我的工作
 
 Interning for 8 months since the very beginning of the product's R&D period, I have been trusted to take charge of the data division throughout the whole beta stage of this product.
 
