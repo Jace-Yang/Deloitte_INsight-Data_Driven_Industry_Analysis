@@ -34,7 +34,7 @@ My major contributions here:
 I wrote a SQL-style data processing rundown in R via 100+ tailored function based on dplyr and over 10k+ lines of code. It then helped the team to streamline the workflow and improve the efficiency remarkably.
 
 
-- The whole dataflow:
+- The whole dataflow:
     > ![](./images/Data-Pipeline/Data_Structure.svg)
     
     - Data cleaning details for 1 datatable as an example, which located **170,000** subsidiary companies' address and industry positioning.
@@ -51,7 +51,7 @@ As our team develop a 4-level market segmentation system. My algorithm is to map
 The way I built the model:
 
 
-![](./images/Business-industry-Mapping/NLP_design.svg)
+![](./images/Business-Industry-Mapping/NLP_design.svg)
 
 
 ## Data Dashboard
