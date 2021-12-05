@@ -5,7 +5,7 @@
 Hi there! My name is Jace Yang. 
 I am one of the core contributor of the Deloitte INsight, an upcoming financial data product that aims to accelerate data-driven industry analysis, especially analysis deep down the subdivision markets.
 
-> This repository is to show my work but mainly through pictures and words. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial. Please email me at yjh.jace@gmail.com if you are interested and want more information.
+> This repository is to show my work but mainly through pictures and words, as I am not allowed to share any code/source files in public!
 
 # Project Website 项目信息
 
